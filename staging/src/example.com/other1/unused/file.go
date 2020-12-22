@@ -1,0 +1,4 @@
+package unused
+
+func Fn() {
+}

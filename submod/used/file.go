@@ -1,0 +1,4 @@
+package used
+
+func Fn() {
+}

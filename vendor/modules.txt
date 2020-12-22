@@ -1,0 +1,12 @@
+## explicit
+foobar.com/repo/subdir
+
+# example.com/other1 v0.0.0 => ./staging/src/example.com/other1
+## explicit
+# example.com/other1 => ./staging/src/example.com/other1
+example.com/other1/subdir
+
+# example.com/other2 v0.0.0 => ./staging/src/example.com/other2
+## explicit
+# example.com/other2 => ./staging/src/example.com/other2
+example.com/other2/subdir
