@@ -6,6 +6,8 @@ import (
 	other2 "example.com/other2/used"
 )
 
+// NEEDS_CODEGEN
+
 func Fn() {
 	submod.Fn()
 	other1.Fn()
